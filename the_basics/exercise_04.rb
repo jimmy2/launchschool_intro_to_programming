@@ -1,0 +1,5 @@
+array = [2011, 1994, 1972, 2008]
+puts array[0]
+puts array[1]
+puts array[2]
+puts array[3]
